@@ -1393,7 +1393,7 @@ MOBILE RESPONSIVENESS ↓
     margin-left: 0px;
   }
 }
-@media (max-width: 640px) {
+@media (max-width: 576px) {
   .section__title {
     line-height: 1.25;
   }
